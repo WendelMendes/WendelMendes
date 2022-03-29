@@ -16,7 +16,7 @@
   ##
   ### Meios de contato:
 <div> 
-  <a href="https://www.linkedin.com/in/wendelmendes1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/wendelmendes1/" alt="Linkedin" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ##
   ![Snake animation](https://github.com/WendelMendes/WendelMendes/blob/output/github-contribution-grid-snake.svg)
