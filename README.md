@@ -20,4 +20,7 @@
   ![Snake animation](https://github.com/WendelMendes/WendelMendes/blob/output/github-contribution-grid-snake.svg)
  
   <img alt="gif" src="https://i.imgur.com/pQWI7gn.gif" width="100%"/> </br>
+  
+  <img alt="gif" src="https://giphy.com/embed/SirUFDS5F83Go" width="100%"/> </br>
+  
 </div>
