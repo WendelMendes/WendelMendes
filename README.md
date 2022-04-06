@@ -1,6 +1,6 @@
   ### Olá meu nome é Wendel!
    Eu tive meu primeiro contato com linhas de código aos 13 anos de idade, quando queria criar um blog privado do desenho que eu amava na época, que se chamava Pokemon. Depois de muita pesquisa eu consegui, finalmente, colocá-lo online, e neste momento eu tive uma sensação mágica, que me lembro até hoje. Eu percebi que podia customizá-lo da maneira que eu quisesse, apenas escrevendo linhas de código — e isso me fascinou profundamente.
-
+<img align="right" alt="Pikachu gif" width="7%" src="https://img1.picmix.com/output/stamp/normal/0/9/0/4/1604090_a14a5.gif" />
   ##
 <div align="center">
   <a href="https://github.com/WendelMendes">
