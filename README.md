@@ -9,11 +9,11 @@ Meu nome é <strong>Wendel</strong>. Eu tive meu primeiro contato com linhas de 
   <img height="131em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendelMendes&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <a href="https://github.com/WendelMendes" alt="Python" target="_blank"> <img align="center" alt="Python" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <a href="https://github.com/WendelMendes" alt="HTML5" target="_blank"> <img align="center" alt="HTML5" title="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <a href="https://github.com/WendelMendes" alt="CSS3" target="_blank"> <img align="center" alt="CSS3" title="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <a href="https://github.com/WendelMendes" alt="Javascript" target="_blank"> <img align="center" alt="Javascript" title="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <a href="https://www.linkedin.com/in/wendelmendes1/" alt="Linkedin" target="_blank" rel="next" > <img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="13%" target="_blank" rel="next"></a>
+  <img align="center" alt="Python" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="HTML5" title="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" title="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Javascript" title="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="13%" target="_blank" rel="next"></a>
 </div>
     
   ##
