@@ -8,8 +8,8 @@ Meu nome é <strong>Wendel</strong>. Eu tive meu primeiro contato com linhas de 
 
   ##
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=WendelMendes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendelMendes&layout=compact&langs_count=7&theme=dark"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=WendelMendes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="49%" height="196vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendelMendes&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML5" title="HTML5" height="35vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -25,7 +25,7 @@ Meu nome é <strong>Wendel</strong>. Eu tive meu primeiro contato com linhas de 
 <div align="center">
   
 ![Snake animation](https://github.com/WendelMendes/WendelMendes/blob/output/github-contribution-grid-snake.svg)
- <img alt="gif" alt="GATO" src="https://i.imgur.com/9pT2EgY.gif" width="100%"/> </br>
+ <img alt="gif" alt="TOKYO" src="https://i.imgur.com/G5WuOZb.gif" width="100%"/> </br>
 </div>
   
 <!--
