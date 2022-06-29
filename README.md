@@ -9,7 +9,7 @@ Meu nome é <strong>Wendel</strong>. Eu tive meu primeiro contato com linhas de 
   ##
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=WendelMendes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="49%" height="196vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendelMendes&layout=compact&langs_count=7&theme=dark"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendelMendes&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML5" title="HTML5" height="35vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
