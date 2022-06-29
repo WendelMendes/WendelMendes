@@ -2,14 +2,14 @@
 
 
 Meu nome é <strong>Wendel</strong>. Eu tive meu primeiro contato com linhas de código aos 13 anos de idade, quando queria criar um blog privado do desenho que eu amava na época, que se chamava Pokemon. Depois de muita pesquisa eu consegui, finalmente, colocá-lo online, e neste momento eu tive uma sensação mágica, que me lembro até hoje. Eu percebi que podia customizá-lo da maneira que eu quisesse, apenas escrevendo linhas de código — e isso me fascinou profundamente.
-<div align="right">
-<img src="https://img1.picmix.com/output/stamp/normal/0/9/0/4/1604090_a14a5.gif" width="10%" alt="Pikachu gif" title="Pikachu">
-</div>
+<br>
+<img align="right" src="https://img1.picmix.com/output/stamp/normal/0/9/0/4/1604090_a14a5.gif" width="10%" alt="Pikachu gif" title="Pikachu">
+
 
   ##
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=WendelMendes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendelMendes&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WendelMendes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendelMendes&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML5" title="HTML5" height="35vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
