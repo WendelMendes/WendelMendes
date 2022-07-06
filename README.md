@@ -19,6 +19,7 @@ Meu nome é <strong>Wendel</strong>. Eu tive meu primeiro contato com linhas de 
   <img align="center" alt="NodeJS" title="NodeJS" height="35vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Python" title="Python" height="35vh" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <a href="https://www.linkedin.com/in/wendelmendes1/" target="_blank" rel="external" ><img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="13%" target="_blank" rel="next"></a>
+  <a href="https://portfolio-wendelmendes.netlify.app/" target="_blank" rel="external" ><img align="right" src="https://img.shields.io/badge/-Portf%C3%B3lio-brown?style=for-the-badge&logo=true" width="12%" target="_blank" rel="next"></a>
 </div>
     
   ##
