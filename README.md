@@ -1,8 +1,8 @@
 # Quem eu sou?
 
-💻 Dev Front-end desde 2018 <br>
-🎓 Formada em Sistemas para Internet na Fiap <br>
-📱 Compartilhando conteúdos de desenvolvimento e da vida de dev no Instagram <br>
+💻 Software Developer <br>
+🎓 x <br>
+📱 x <br>
 
   ##
 <div align="center">
