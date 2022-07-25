@@ -1,10 +1,8 @@
 # Quem eu sou?
 
-
-Meu nome é <strong>Wendel</strong>. Eu tive meu primeiro contato com linhas de código aos 13 anos de idade, quando queria criar um blog privado do desenho que eu amava na época, que se chamava Pokemon. Depois de muita pesquisa eu consegui, finalmente, colocá-lo online, e neste momento eu tive uma sensação mágica, que me lembro até hoje. Eu percebi que podia customizá-lo da maneira que eu quisesse, apenas escrevendo linhas de código — e isso me fascinou profundamente.
-<br>
-<img align="right" src="https://img1.picmix.com/output/stamp/normal/0/9/0/4/1604090_a14a5.gif" width="10%" alt="Pikachu gif" title="Pikachu">
-
+💻 Dev Front-end desde 2018 <br>
+🎓 Formada em Sistemas para Internet na Fiap <br>
+📱 Compartilhando conteúdos de desenvolvimento e da vida de dev no Instagram <br>
 
   ##
 <div align="center">
