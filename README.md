@@ -3,7 +3,7 @@
 <ul>
   <li>💻 Software Developer</li>
   <li>🎓 Studying: Systems Analysis and Development</li>
-  <li>📱 Always studying and developing. Feel free to follow my development! :D</li>
+  <li>📱 Always studying and progressing. Feel free to follow my development! :D</li>
 </ul>
 
  ##
